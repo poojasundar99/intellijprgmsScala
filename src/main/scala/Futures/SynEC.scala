@@ -1,0 +1,5 @@
+package Futures
+
+class SynEC {
+
+}
